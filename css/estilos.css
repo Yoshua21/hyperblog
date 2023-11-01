@@ -42,3 +42,12 @@ body{
     background:white;
     padding: 1em;
 }
+
+#footer{
+    width: 72%;
+    background: rgb(1, 165, 224);
+    text-align: center;
+    color: black;
+    padding: 0.5em;
+    margin: auto;
+}
