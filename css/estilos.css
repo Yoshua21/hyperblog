@@ -36,3 +36,13 @@ body{
 #countainer h1{
     font-size: 20px;
 }
+
+#footer{
+    width: 72%;
+    background: rgb(1, 165, 224);
+    text-align: center;
+    color: black;
+    padding: 0.5em;
+    margin: auto;
+
+}
